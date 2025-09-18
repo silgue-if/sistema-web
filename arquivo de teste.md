@@ -1,1 +1,1 @@
-a terra e plana não redonda
+Arquivo para prática de push, pull e merge.
