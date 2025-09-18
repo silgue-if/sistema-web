@@ -1,1 +1,1 @@
-Arquivo para prática de push, pull e merge.
+Arquivo para prática de push, pull e mer
