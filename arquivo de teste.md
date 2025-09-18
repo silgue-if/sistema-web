@@ -1,5 +1,5 @@
 Arquivo para prática de push, pull e merge.
 
-Método criar loja
+método listar detalhes de contato
 
-1 - adicionar: nome, rua, cidade
+1 - detalhes do contato: nome, número, email
