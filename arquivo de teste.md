@@ -1,5 +1,7 @@
-Arquivo para prática de push, pull e merge.
+Arquivo para prática de push,\ pull e merge.
 
-Método criar loja
+metodo criar contato
+  criar contato no banco de dados
+  enviar email de confirmação
+  retornar sucesso
 
-1 - adicionar: nome, rua, cidade
